@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="art_name1">The Starry Night</string>
+    <string name="art_name2">The Persistence of Memory</string>
+    <string name="art_name3">The Beautiful Flower</string>
+    <string name="art_name4">The Last Supper</string>
+    <string name="art_name5">The Birth of Venus</string>
+    <string name="art_name6">The Flower Carrier</string>
+    <string name="art_name7">The Lighthouse at Two Lights</string>
+    <string name="art_name8">The Beach at Sainte-Adresse</string>
+
+    <string name="artist_name1">Vincent van Gogh</string>
+    <string name="artist_name2">Salvador Dali</string>
+    <string name="artist_name3">Georgia O\'Keeffe</string>
+    <string name="artist_name4">Leonardo da Vinci</string>
+    <string name="artist_name5">Sandro Botticelli</string>
+    <string name="artist_name6">Diego Rivera</string>
+    <string name="artist_name7">Edward Hopper</string>
+    <string name="artist_name8">Claude Monet</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+</resources>
